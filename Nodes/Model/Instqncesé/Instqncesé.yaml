@@ -62,8 +62,8 @@ Children:
   - Name: Speedé
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 0
+    Value: 10
   - Name: Acceleritioné
     Type: BaseDataVariableType
     DataType: Int32
-    Value: 0
+    Value: 20
