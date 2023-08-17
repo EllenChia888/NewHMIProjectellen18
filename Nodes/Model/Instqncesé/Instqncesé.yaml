@@ -1,0 +1,14 @@
+Name: Instqncesé
+Type: FolderType
+Children:
+- Name: Motoré1
+  Type: Motoré
+  Children:
+  - Name: Speedé
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acceleritioné
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0

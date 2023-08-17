@@ -1,0 +1,15 @@
+Name: Typeé
+Type: FolderType
+Children:
+- Name: Motoré
+  Id: g=c8d4ae72181f0e3966495f43a64ce9f1
+  Supertype: BaseObjectType
+  Children:
+  - Name: Speedé
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Acceleritioné
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
